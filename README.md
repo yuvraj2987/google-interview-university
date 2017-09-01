@@ -4,7 +4,9 @@ _If you like this project, please give me a star._ &#9733;
 
 ## What is it?
 
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer.
+This is my multi-month study plan for practice.
+I am a software engineer turned Site Reliability Engineer.Though as an SRE I get to work on scalability and system problems, coding parts has reduced a lot. Most of my coding has been in ansible and packer. Which even though applies same principles doesn't feel like proper coding.
+So I am going to build on original plan. I will add my own resources and pratice repos.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
@@ -131,8 +133,6 @@ Print out a "[future Googler](https://github.com/jwasham/google-interview-univer
 
 [![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/etras/future-googler.pdf)
 
-
-![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
 
 ## Don't feel you aren't smart enough
 - Google engineers are smart, but many have an insecurity that they aren't smart enough, even though they work at Google.
