@@ -8,9 +8,9 @@ This is my multi-month study plan for going from web developer (self-taught, no 
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
 
-This long list has been extracted and expanded from **Google's coaching notes**, so these are the things you need to know. 
-There are extra items I added at the bottom that may come up in the interview or be helpful in solving a problem. Many items are from 
-Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected 
+This long list has been extracted and expanded from **Google's coaching notes**, so these are the things you need to know.
+There are extra items I added at the bottom that may come up in the interview or be helpful in solving a problem. Many items are from
+Steve Yegge's "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" and are reflected
 sometimes word-for-word in Google's coaching notes.
 
 ---
@@ -105,21 +105,6 @@ sometimes word-for-word in Google's coaching notes.
 
 ## Why use it?
 
-I'm following this plan to prepare for my Google interview. I've been building the web, building
-services, and launching startups since 1997. I have an economics degree, not a CS degree.  I've
-been very successful in my career, but I want to work at Google. I want to progress into larger systems
-and get a real understanding of computer systems, algorithmic efficiency, data structure performance,
-low-level languages, and how it all works. And if you don't know any of it, Google won't hire you.
-
-When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
-traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
-Every data structure I've ever used was built into the language, and I didn't know how they worked
-under the hood at all. I've never had to manage memory, unless a process I was running would give an "out of
-memory" error, and then I'd have to find a workaround. I've used a few multi-dimensional arrays in my life and
-thousands of associative arrays, but I've never created data structures from scratch.
-
-But after going through this study plan I have high confidence I'll be hired. It's a long plan. It's going to take me
-months. If you are familiar with a lot of this already it will take you a lot less time.
 
 ## How to use it
 
@@ -146,13 +131,6 @@ Print out a "[future Googler](https://github.com/jwasham/google-interview-univer
 
 [![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
 
-## Follow me
-
-I'm on the journey, too. Follow along on my blog at [GoogleyAsHeck.com](https://googleyasheck.com/)
-
-- Twitter: [@googleyasheck](https://twitter.com/googleyasheck)
-- Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
-- LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
 
 ![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
 
@@ -250,21 +228,21 @@ You'll see some C, C++, and Python learning included below, because I'm learning
     - [x] review of C++ concepts: https://www.youtube.com/watch?v=Rub-JsjMhWY
 
 - [x] **Python**
-    - [x] [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
-    - [x] Python in One Video: https://www.youtube.com/watch?v=N4mEzFDjqtA
-    - [x] Series on 3.4: https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
-    - [x] Zero to Hero: https://www.youtube.com/watch?v=emY34tSKXc4
-    - [x] Statistics for Hackers: https://www.youtube.com/watch?v=Iq9DzN6mvYA
-    - [x] Faster Python: https://www.youtube.com/watch?v=JDSGVvMwNM8
-    - [x] CPython Walk: https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6
-    - [x] 10 Tips for Pythonic Code: https://www.youtube.com/watch?v=_O23jIXsshs
-    - [x] Beyond PEP 8 -- Best practices for beautiful intelligible code: https://www.youtube.com/watch?v=wf-BqAjZb8M
+    - [] [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
+    - [] Python in One Video: https://www.youtube.com/watch?v=N4mEzFDjqtA
+    - [] Series on 3.4: https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
+    - [] Zero to Hero: https://www.youtube.com/watch?v=emY34tSKXc4
+    - [] Statistics for Hackers: https://www.youtube.com/watch?v=Iq9DzN6mvYA
+    - [] Faster Python: https://www.youtube.com/watch?v=JDSGVvMwNM8
+    - [] CPython Walk: https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6
+    - [] 10 Tips for Pythonic Code: https://www.youtube.com/watch?v=_O23jIXsshs
+    - [] Beyond PEP 8 -- Best practices for beautiful intelligible code: https://www.youtube.com/watch?v=wf-BqAjZb8M
 
-- [x] **Compilers**
-    - [x] https://class.coursera.org/compilers-004/lecture/1
-    - [x] https://class.coursera.org/compilers-004/lecture/2
-    - [x] C++: https://www.youtube.com/watch?v=twodd1KFfGk
-    - [x] Understanding Compiler Optimization (C++): https://www.youtube.com/watch?v=FnGCDLhaxKU
+- [] **Compilers**
+    - [] https://class.coursera.org/compilers-004/lecture/1
+    - [] https://class.coursera.org/compilers-004/lecture/2
+    - [] C++: https://www.youtube.com/watch?v=twodd1KFfGk
+    - [] Understanding Compiler Optimization (C++): https://www.youtube.com/watch?v=FnGCDLhaxKU
 
 ## The Daily Plan
 
@@ -286,9 +264,6 @@ Why code in all of these?
 I may not have time to do all of these for every subject, but I'll try.
 
 You can see my code here:
- - C: https://github.com/jwasham/practice-c
- - C++: https://github.com/jwasham/practice-cpp
- - Python: https://github.com/jwasham/practice-python
 
 You don't need to memorize the guts of every algorithm.
 
@@ -297,21 +272,21 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
-- [x] Harvard CS50 - Asymptotic Notation: https://www.youtube.com/watch?v=iOq5kSKqeR4
-- [x] Big O Notations (general quick tutorial) - https://www.youtube.com/watch?v=V6mKVRU1evU
-- [x] Big O Notation (and Omega and Theta) - best mathematical explanation:
+- [] Harvard CS50 - Asymptotic Notation: https://www.youtube.com/watch?v=iOq5kSKqeR4
+- [] Big O Notations (general quick tutorial) - https://www.youtube.com/watch?v=V6mKVRU1evU
+- [] Big O Notation (and Omega and Theta) - best mathematical explanation:
     - https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN
-- [x] Skiena:
+- [] Skiena:
     - video: https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b
     - slides: http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf
-- [x] A Gentle Introduction to Algorithm Complexity Analysis: http://discrete.gr/complexity/
-- [x] Orders of Growth: https://class.coursera.org/algorithmicthink1-004/lecture/59
-- [x] Asymptotics: https://class.coursera.org/algorithmicthink1-004/lecture/61
-- [x] UC Berkeley Big O: https://youtu.be/VIS4YDpuP98
-- [x] UC Berkeley Big Omega: https://youtu.be/ca3e7UVmeUc
-- [x] Amortized Analysis: https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN
-- [x] Illustrating "Big O": https://class.coursera.org/algorithmicthink1-004/lecture/63
-- [x] TopCoder (includes recurrence relations and master theorem):
+- [] A Gentle Introduction to Algorithm Complexity Analysis: http://discrete.gr/complexity/
+- [] Orders of Growth: https://class.coursera.org/algorithmicthink1-004/lecture/59
+- [] Asymptotics: https://class.coursera.org/algorithmicthink1-004/lecture/61
+- [] UC Berkeley Big O: https://youtu.be/VIS4YDpuP98
+- [] UC Berkeley Big Omega: https://youtu.be/ca3e7UVmeUc
+- [] Amortized Analysis: https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN
+- [] Illustrating "Big O": https://class.coursera.org/algorithmicthink1-004/lecture/63
+- [] TopCoder (includes recurrence relations and master theorem):
     - Computational Complexity: Section 1: https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/
     - Computational Complexity: Section 2: https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/
 - [x] Cheat sheet: http://bigocheatsheet.com/
@@ -417,7 +392,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - enqueue: O(1) (amortized, linked list and array [probing])
         - dequeue: O(1) (linked list and array)
         - empty: O(1) (linked list and array)
-    
+
 - ### Hash table
     - [x] Videos:
         - [x] Hashing with Chaining: https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8
@@ -426,7 +401,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - [x] PyCon 2010: The Mighty Dictionary: https://www.youtube.com/watch?v=C4Kc8xzcA68
         - [x] (Advanced) Randomization: Universal & Perfect Hashing: https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=11
         - [x] (Advanced) Perfect hashing: https://www.youtube.com/watch?v=N0COwN14gt0&list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9&index=4
-    
+
     - [x] Online Courses:
         - [x] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Understanding-hash-functions/149042/177126-4.html
         - [x] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-hash-tables/149042/177127-4.html
@@ -438,7 +413,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - [x] distributed hash tables:
             - https://www.coursera.org/learn/data-structures/lecture/DvaIb/instant-uploads-and-storage-optimization-in-dropbox
             - https://www.coursera.org/learn/data-structures/lecture/tvH8H/distributed-hash-tables
-    
+
     - [x] implement with array using linear probing
         - hash(k, m) - m is size of hash table
         - add(key, value) - if key already exists, update value
@@ -819,7 +794,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - how is tail recursion better than not?
         - [x] https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad
         - [x] https://www.youtube.com/watch?v=L1jjXGfxozc
- 
+
 - ### Dynamic Programming
     - This subject can be pretty difficult, as each DP soluble problem must be defined as a recursion relation, and coming up with it can be tricky.
     - I suggest looking at many examples of DP problems until you have a solid understanding of the pattern involved.
@@ -834,7 +809,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [x] Simonson: Dynamic programming II - Lecture 12: https://www.youtube.com/watch?v=v1qiRwuJU7g&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=12
         - [x] List of individual DP problems (each is short):
             https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
-    - [x] Yale Lecture notes: 
+    - [x] Yale Lecture notes:
         - [x] http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#dynamicProgramming
     - [x] Coursera:
         - [x] The RNA secondary structure problem: https://www.coursera.org/learn/algorithmic-thinking-2/lecture/80RrW/the-rna-secondary-structure-problem
@@ -851,7 +826,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [x] Make School: More Probability and Markov Chains: https://www.youtube.com/watch?v=dNaJg-mLobQ
     - [x] Khan Academy:
         - Course layout:
-            - [x] https://www.khanacademy.org/math/probability/probability-and-combinatorics-topic 
+            - [x] https://www.khanacademy.org/math/probability/probability-and-combinatorics-topic
         - Just the videos - 41 (each are simple and each are short):
             - [x] https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19
 
@@ -927,7 +902,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - [x] Mutex in Python: https://www.youtube.com/watch?v=0zaPs8OtyKY
 
 
-    Scalability and System Design are very large topics with many topics and resources, since there is a lot to consider 
+    Scalability and System Design are very large topics with many topics and resources, since there is a lot to consider
     when designing a software/hardware system that can scale. Expect to spend quite a bit of time on this.
 
 - ### System Design, Scalability, Data Handling
@@ -955,14 +930,14 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [x] How long does it take to make a context switch?: http://blog.tsunanet.net/2010/11/how-long-does-it-take-to-make-context.html
     - [x] Transactions Across Datacenters: https://www.youtube.com/watch?v=srOgpXECblk
     - [x] A plain english introduction to CAP Theorem: http://ksat.me/a-plain-english-introduction-to-cap-theorem/
-    - [x] Paxos Consensus algorithm: 
+    - [x] Paxos Consensus algorithm:
         - short video: https://www.youtube.com/watch?v=s8JqcZtvnsM
         - extended video with use case and multi-paxos: https://www.youtube.com/watch?v=JEpsBg0AO6o
         - paper: http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf
     - [x] Consistent Hashing: http://www.tom-e-white.com/2007/11/consistent-hashing.html
     - [x] NoSQL Patterns: http://horicky.blogspot.com/2009/11/nosql-patterns.html
     - [x] Optional: UML 2.0 Series: https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc
-    - [x] OOSE: Software Dev Using UML and Java (21 videos): 
+    - [x] OOSE: Software Dev Using UML and Java (21 videos):
         - Can skip this if you have a great grasp of OO and OO design practices.
         - https://www.youtube.com/playlist?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO
     - [x] SOLID OOP Principles:
@@ -991,7 +966,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
             - more flavor: http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=en
     - [x] Scalability:
         - [x] Great overview: https://www.youtube.com/watch?v=-W9F__D3oY4
-        - [x] Short series: 
+        - [x] Short series:
             - http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones
             - http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database
             - http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache
@@ -1114,7 +1089,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - [x] 2014: Machine Learning: The High-Interest Credit Card of Technical Debt: http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf
     - [x] 2015: Continuous Pipelines at Google: http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43790.pdf
     - [x] 2015: High-Availability at Massive Scale: Building Google’s Data Infrastructure for Ads: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44686.pdf
-    - [x] 2015: TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems: http://download.tensorflow.org/paper/whitepaper2015.pdf 
+    - [x] 2015: TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems: http://download.tensorflow.org/paper/whitepaper2015.pdf
     - [x] 2015: How Developers Search for Code: A Case Study: http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43835.pdf
     - [x] 2016: Borg, Omega, and Kubernetes: http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf
 
@@ -1229,7 +1204,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 
 ---
 
-## Final Review 
+## Final Review
 
     This section will have shorter videos that can you watch pretty quickly to review most of the important concepts.
     It's nice if you want a refresher often.
@@ -1245,7 +1220,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 #### Sorts:
 
 - [ ] Merge Sort: https://www.youtube.com/watch?v=GCae1WNvnZM
-   
+
 
 ## Books
 
@@ -1275,7 +1250,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/
     - If you see people reference "The Google Resume", it was a book replaced by "Cracking the Coding Interview".
 
-### Additional books 
+### Additional books
 
     These were not suggested by Google but I added because I needed the background knowledge
 
@@ -1298,7 +1273,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 - [ ] Introduction to Algorithms
     - https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844
     - Half.com is a great resource for textbooks at good prices.
-    
+
 - [ ] Elements of Programming Interviews
     - https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836
     - all code is in C++, if you're looking to use C++ in your interview
@@ -1311,7 +1286,7 @@ Take coding challenges every day, as many as you can.
 
 - [x] Great intro (copied from System Design section): Algorithm design: http://www.hiredintech.com/algorithm-design/
 - [ ] How to Find a Solution: https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/
-- [ ] How to Dissect a Topcoder Problem Statement: https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-dissect-a-topcoder-problem-statement/ 
+- [ ] How to Dissect a Topcoder Problem Statement: https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-dissect-a-topcoder-problem-statement/
 - [ ] Mathematics for Topcoders: https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/
 - [ ] Dynamic Programming – From Novice to Advanced: https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/
 
@@ -1345,7 +1320,7 @@ Take coding challenges every day, as many as you can.
     Think of about 20 interview questions you'll get, along the lines of the items below.
     Have 2-3 answers for each
     Have a story, not just data, about something you accomplished
-    
+
 - Why do you want this job?
 - What's a tough problem you've solved?
 - Biggest challenges faced?
@@ -1388,7 +1363,7 @@ Take coding challenges every day, as many as you can.
         - [x] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/waxgx/core-markov-text-generation
         - [x] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/gZhiC/core-implementing-markov-text-generation
         - [x] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/EUjrq/project-markov-text-generation-walk-through
-    - See more in MIT 6.050J Information and Entropy series below. 
+    - See more in MIT 6.050J Information and Entropy series below.
 
 - ### Parity & Hamming Code
     - [x] Intro: https://www.youtube.com/watch?v=q-3BctoUpHE
@@ -1413,14 +1388,14 @@ Take coding challenges every day, as many as you can.
 
 - ### Compression
     - make sure to watch information theory videos first
-    - [x] Computerphile: 
+    - [x] Computerphile:
         - [x] Compression: https://www.youtube.com/watch?v=Lto-ajuqW3w
-        - [x] Entropy in Compression: https://www.youtube.com/watch?v=M5c_RFKVkko 
+        - [x] Entropy in Compression: https://www.youtube.com/watch?v=M5c_RFKVkko
         - [x] Upside Down Trees (Huffman Trees): https://www.youtube.com/watch?v=umTbivyJoiI
         - [x] EXTRA BITS/TRITS - Huffman Trees: https://www.youtube.com/watch?v=DV8efuB3h2g
         - [x] Elegant Compression in Text (The LZ 77 Method): https://www.youtube.com/watch?v=goOa3DGezUA
         - [x] Text Compression Meets Probabilities: https://www.youtube.com/watch?v=cCDCfoHTsaU
-    - [x] Compressor Head videos: 
+    - [x] Compressor Head videos:
         - https://www.youtube.com/playlist?list=PLOU2XLYxmsIJGErt5rrCqaSGTMyyqNt2H
     - [x] (optional) Google Developers Live: GZIP is not enough!: https://www.youtube.com/watch?v=whGwm0Lky2s
 
@@ -1534,13 +1509,13 @@ Take coding challenges every day, as many as you can.
 - ### Math for Fast Processing
     - [x] Integer Arithmetic, Karatsuba Multiplication: https://www.youtube.com/watch?v=eCaXlAaN2uE&index=11&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
     - [x] The Chinese Remainder Theorem (used in cryptography): https://www.youtube.com/watch?v=ru7mWZJlRQg
-    
+
 - ### Treap
     - Combination of a binary search tree and a heap
     - [x] Wikipedia: https://en.wikipedia.org/wiki/Treap
     - [x] https://www.youtube.com/watch?v=6podLUYinH8
     - [x] Applications in set operations: https://www.cs.cmu.edu/~scandal/papers/treaps-spaa98.pdf
-    
+
 - ### Linear Programming
     - [x] https://www.youtube.com/watch?v=M4K6HYLHREQ
     - [x] Finding minimum cost: https://www.youtube.com/watch?v=2ACJ9ewUC6U
@@ -1656,11 +1631,11 @@ Sit back and enjoy. "netflix and skill" :P
 
 - [ ] UC Berkeley 61C: Machine Structures (26 videos):
     - https://www.youtube.com/watch?v=gJJeUFyuvvg&list=PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_
-    
-- [ ] OOSE: Software Dev Using UML and Java (21 videos): 
+
+- [ ] OOSE: Software Dev Using UML and Java (21 videos):
     - https://www.youtube.com/playlist?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO
 
-- [ ] UC Berkeley CS 152: Computer Architecture and Engineering (20 videos): 
+- [ ] UC Berkeley CS 152: Computer Architecture and Engineering (20 videos):
     - https://www.youtube.com/watch?v=UH0QYvtP7Rk&index=20&list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr
 
 - [ ] MIT 6.004: Computation Structures (49 videos):
@@ -1700,7 +1675,7 @@ Sit back and enjoy. "netflix and skill" :P
 - [ ] Introduction to Cryptography:
     - https://www.youtube.com/watch?v=2aHkqB2-46k&feature=youtu.be
     - more in series (not in order): https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg
-    
+
 - [ ] Mining Massive Datasets - Stanford University (94 videos):
     - https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV
 
