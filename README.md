@@ -245,15 +245,16 @@ You'll see some C, C++, and Python learning included below, because I'm learning
 
 ## The Daily Plan
 
-Each subject does not require a whole day to be able to understand it fully, and you can do multiple of these in a day.
+Each day I will take a subject from the list. After understanding Gist will move for the implementation.
+Not all day will be stubject understanding. Other's I will be solving problem from the selected subject.
+Problem Solving/Implementation
+ - Whiteboard / Notebook coding
+ - Code walkthrough using examples
+ - Actual coding and testing
 
-Each day I take one subject from the list below, watch videos about that subject, and write an implementation in:
-    C - using structs and functions that take a struct * and something else as args.
-    C++ - without using built-in types
-    C++ - using built-in types, like STL's std::list for a linked list
-    Python - using built-in types (to keep practicing Python)
-    and write tests to ensure I'm doing it right, sometimes just using simple assert() statements
-    You may do Java or something else, this is just my thing.
+ I will try to follow Test Driven Coding philosophies.
+
+
 
 Why code in all of these?
     Practice, practice, practice, until I'm sick of it, and can do it with no problem (some have many edge cases and bookkeeping details to remember)
